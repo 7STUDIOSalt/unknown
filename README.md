@@ -1,10 +1,8 @@
 !THIS IS FOR JAVA ONLY
 
 how to install:
-press the "..." and click download zip
-then you drag the zip into your pack into the folder called "resourcepacks"
-and boom your done!
-btw take out the readme file
+install this zip on the latest realese
+and drag it to the "resourcepacks" folder in you minecraft modpack
 
 
 version 1.19.3 ONLY
